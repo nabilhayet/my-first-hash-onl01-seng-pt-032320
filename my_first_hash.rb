@@ -14,7 +14,8 @@ def shipping_manifest
   
   the_manifest={}
   the_manifest["whale bone corsets"]=5
-  the_manifest[""]=2
+  the_manifest["porcelain vases"]=2
+  
 
 
 end
